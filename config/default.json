@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://regi:regi123@cluster0.etzq2.mongodb.net/merndb?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://regi:regi123@cluster0.etzq2.mongodb.net/merndb?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
